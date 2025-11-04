@@ -1,3 +1,6 @@
+## 3. Logic Force
+![🔍 Мисливець на прості](https://img.shields.io/badge/🔍-Мисливець_на_прості-00c6ff?style=for-the-badge&logo=github&logoColor=white)
+![🔍 Мисливець на прості](https://img.shields.io/badge/Logic_Force-Завдання_виконано-0072ff?style=for-the-badge&logo=github&logoColor=white)
 # FuncWorkshopTeam
 
 # 📌 Інструкція до презентації командного проєкту: «Функції в C++"
